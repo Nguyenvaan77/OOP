@@ -1,0 +1,5 @@
+1705,HanoiBangkok,17/5/2024,20000000
+1805,HanoiHochiminh,18/5/2024,350000
+1905,HanoiNghean,19/5/2024,400000
+18051,HanoiKualalampu,18/5/2024,675000
+2405,NgheanThanhchuong,24/5/2024,500000
